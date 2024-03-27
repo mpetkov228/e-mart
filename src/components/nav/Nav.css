@@ -1,0 +1,33 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  font-size: 24px;
+  font-weight: bold;
+  align-items: center;
+  border-bottom: 1px solid #167e69;
+}
+
+.logo {
+  margin-left: 40px;
+}
+
+.logo > img {
+  width: 150px;
+}
+
+.navbarLinks {
+  display: flex;
+  list-style: none;
+  gap: 40px;
+  margin-right: 60px;
+}
+
+a {
+  text-decoration: none;
+  color: #167e69;
+}
+
+a:visited {
+  color: #167e69;
+}

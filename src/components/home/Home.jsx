@@ -1,7 +1,9 @@
+import "./Home.css";
+
 function Home() {
   return (
-    <div>
-      HomePage
+    <div className="home bg">
+      
     </div>
   );
 }
