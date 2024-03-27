@@ -1,3 +1,5 @@
+import { Outlet } from "react-router-dom";
+
 import Nav from "./components/nav/Nav";
 
 function App() {
@@ -5,6 +7,7 @@ function App() {
   return (
     <>
       <Nav />
+      <Outlet />
     </>
   );
 }
