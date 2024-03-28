@@ -1,15 +1,15 @@
 
 
-.bg {
-  background-image: url("../../../public/open-sign.jpg");
+/* .bg {
+  background-image: url("../../../open-sign.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
 
 .callToActionHome {
-  margin-top: 60px;
+  margin-top: 40px;
   text-align: center;
 }
 

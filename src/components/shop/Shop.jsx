@@ -1,7 +1,12 @@
+import "./Shop.css";
+import Categories from "../categories/Categories";
+import Products from "../products/Products";
+
 function Shop() {
   return (
-    <div>
-      ShopPage
+    <div className="shop">
+      <Categories />
+      <Products />
     </div>
   );
 }
