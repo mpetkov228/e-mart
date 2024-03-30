@@ -1,3 +1,19 @@
 .categories {
   background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #167e69;
+}
+
+.categories > h1 {
+  margin-bottom: 10px;
+}
+
+.categoriesList {
+  list-style: none;
+  font-size: 24px;
+}
+
+.categoriesList > li {
+  padding: 10px 0 10px 0;
 }
