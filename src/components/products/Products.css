@@ -3,4 +3,13 @@
   border-radius: 5px;
   border: 1px solid #167e69;
   display: flex;
+  gap: 20px;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+
+.productCard {
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
 }

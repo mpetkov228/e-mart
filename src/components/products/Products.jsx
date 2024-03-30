@@ -3,11 +3,36 @@ import "./Products.css";
 function Products() {
   return (
     <div className="products">
-      <div>Item1</div>
-      <div>Item2</div>
-      <div>Item3</div>
-      <div>Item4</div>
-      <div>Item5</div>
+      <div className="productCard">
+        <img src="https://placehold.co/250x250" alt="image" />
+        <p>item</p>
+        <p>price</p>
+      </div>
+      <div className="productCard">
+        <img src="https://placehold.co/250x250" alt="image" />
+        <p>item</p>
+        <p>price</p>
+      </div>
+      <div className="productCard">
+        <img src="https://placehold.co/250x250" alt="image" />
+        <p>item</p>
+        <p>price</p>
+      </div>
+      <div className="productCard">
+        <img src="https://placehold.co/250x250" alt="image" />
+        <p>item</p>
+        <p>price</p>
+      </div>
+      <div className="productCard">
+        <img src="https://placehold.co/250x250" alt="image" />
+        <p>item</p>
+        <p>price</p>
+      </div>
+      <div className="productCard">
+        <img src="https://placehold.co/250x250" alt="image" />
+        <p>item</p>
+        <p>price</p>
+      </div>
     </div>
   );
 }

@@ -12,6 +12,7 @@
 .categoriesList {
   list-style: none;
   font-size: 24px;
+  text-wrap: nowrap;
 }
 
 .categoriesList > li {
